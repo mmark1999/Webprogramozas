@@ -1,0 +1,52 @@
+body 
+{
+    background-color:burlywood;
+}
+
+.line
+{
+    background-color: #953404;
+}
+
+#header
+{
+  height: 70px;
+  line-height: 70px;
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+  color: burlywood;
+  margin-left: 2px;
+  width: 95%;
+}
+
+#pict
+{
+    height: 65px;
+}
+
+#head div
+{
+    float: left;
+    clear: none;
+}
+
+#picture_div
+{
+    height: 70px;
+}
+
+.name
+{
+    color: burlywood;
+    font-weight: bold;
+    font-size: large;
+    height: fit-content;
+    background-color: #953404;
+}
+
+#video
+{
+    width:320px;
+    height:240px;
+}
