@@ -1,0 +1,21 @@
+table, td
+{
+    border: 1px solid black;
+    margin: auto;
+    text-align: center;
+}
+
+.sarga
+{
+    background-color: #FFFF99;
+}
+
+.kek
+{
+    background-color: #CCCCFF;
+}
+
+.zold
+{
+    background-color: #99FF99;
+}
